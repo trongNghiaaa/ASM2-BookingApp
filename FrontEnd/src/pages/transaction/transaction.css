@@ -1,0 +1,39 @@
+Table,
+td,
+th {
+    border: 1px solid;
+}
+Table {
+    width: 90%;
+}
+.table {
+    margin-top: 50px;
+    margin-left: 20px;
+    border-collapse: collapse;
+}
+th {
+    height: 70px;
+    background-color: aqua;
+}
+td {
+    height: 50px;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.checkout {
+    background-color: rgb(176, 66, 186);
+    border-style: groove;
+    border-radius: 10%;
+}
+.checkin {
+    background-color: rgb(41, 152, 95);
+    border-style: groove;
+    border-radius: 10%;
+}
+.booked {
+    background-color: #ff7f50;
+    border-style: groove;
+    border-radius: 10%;
+}
