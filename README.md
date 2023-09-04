@@ -1,6 +1,6 @@
 # ASM2 - Booking App
 
-Build an Booking App with RESTful API
+Build an Booking App 
 
 ### Features:
 
